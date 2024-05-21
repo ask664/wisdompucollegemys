@@ -1,3 +1,3 @@
-# DKZP Govt. Lower Primary School Kormbadka
+# DKZP WISDOM PU COLLEGE
 
 This is a website for a local government school.
